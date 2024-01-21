@@ -1,4 +1,4 @@
-<h1 algin="center">
+<h1 align="center">
   I'm Youness Zioual
 </h1>
 <h3 align="center">A passionate software developer</h3>
